@@ -1,7 +1,7 @@
 #!/bin/bash
 # 一键升级python2.6.x 到2.7.x
 # 本脚本适应CentOS6.x操作系统，发行版请参考脚本自行处理
-# Author: Geikiy [geikiy.hu@163.com]
+# Author: Geikiy [geikiy@163.com]
 
 echo "start upgrade python version .................................."
 
